@@ -1,9 +1,18 @@
 [
     {
+        "package": "betareg",
+        "url": "https://github.com/r-forge/betareg",
+        "subdir": "pkg"
+    },
+
+
+    {
         "package": "countreg",
         "url": "https://github.com/r-forge/countreg",
         "subdir": "pkg"
     },
+
+
     {
         "package": "distributions3",
         "url": "https://github.com/alexpghayes/distributions3"
