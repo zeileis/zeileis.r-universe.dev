@@ -1,0 +1,14 @@
+[
+    {
+        "package": "countreg",
+        "url": "https://github.com/r-forge/countreg"
+    },
+    {
+        "package": "exams",
+        "url": "https://github.com/r-forge/exams/pkg/exams"
+    },
+    {
+        "package": "topmodels",
+        "url": "https://github.com/r-forge/topmodels/pkg/topmodels"
+    }
+]
