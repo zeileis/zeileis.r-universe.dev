@@ -1,7 +1,8 @@
 [
     {
         "package": "countreg",
-        "url": "https://github.com/r-forge/countreg"
+        "url": "https://github.com/r-forge/countreg",
+        "subdir": "pkg"
     },
     {
         "package": "distributions3",
@@ -9,10 +10,12 @@
     },
     {
         "package": "exams",
-        "url": "https://github.com/r-forge/exams"
+        "url": "https://github.com/r-forge/exams",
+        "subdir": "pkg/exams"
     },
     {
         "package": "topmodels",
-        "url": "https://github.com/r-forge/topmodels/"
+        "url": "https://github.com/r-forge/topmodels/",
+        "subdir": "pkg/topmodels"
     }
 ]
