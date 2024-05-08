@@ -4,11 +4,15 @@
         "url": "https://github.com/r-forge/countreg"
     },
     {
+        "package": "distributions3",
+        "url": "https://github.com/alexpghayes/distributions3"
+    },
+    {
         "package": "exams",
-        "url": "https://github.com/r-forge/exams/pkg/exams"
+        "url": "https://github.com/r-forge/exams"
     },
     {
         "package": "topmodels",
-        "url": "https://github.com/r-forge/topmodels/pkg/topmodels"
+        "url": "https://github.com/r-forge/topmodels/"
     }
 ]
