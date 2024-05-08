@@ -8,14 +8,45 @@
         "package": "distributions3",
         "url": "https://github.com/alexpghayes/distributions3"
     },
+
+
     {
         "package": "exams",
         "url": "https://github.com/r-forge/exams",
         "subdir": "pkg/exams"
     },
     {
+        "package": "c403",
+        "url": "https://github.com/r-forge/exams",
+        "subdir": "pkg/c403"
+    },
+    {
+        "package": "exams2forms",
+        "url": "https://github.com/r-forge/exams",
+        "subdir": "pkg/exams2forms"
+    },
+
+
+    {
+        "package": "sandwich",
+        "url": "https://github.com/r-forge/sandwich",
+        "subdir": "pkg"
+    },
+
+
+    {
         "package": "topmodels",
-        "url": "https://github.com/r-forge/topmodels/",
+        "url": "https://github.com/r-forge/topmodels",
         "subdir": "pkg/topmodels"
+    },
+    {
+        "package": "brtobit",
+        "url": "https://github.com/r-forge/topmodels",
+        "subdir": "pkg/brtobit"
+    },
+    {
+        "package": "crch",
+        "url": "https://github.com/r-forge/topmodels",
+        "subdir": "pkg/crch"
     }
 ]
