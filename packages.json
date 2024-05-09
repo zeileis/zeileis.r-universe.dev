@@ -7,6 +7,13 @@
 
 
     {
+        "package": "colorspace",
+        "url": "https://github.com/r-forge/colorspace",
+        "subdir": "pkg/colorspace"
+    },
+
+
+    {
         "package": "countreg",
         "url": "https://github.com/r-forge/countreg",
         "subdir": "pkg"
@@ -57,5 +64,13 @@
         "package": "crch",
         "url": "https://github.com/r-forge/topmodels",
         "subdir": "pkg/crch"
+    },
+
+
+    {
+        "package": "zoo",
+        "url": "https://github.com/r-forge/zoo",
+        "subdir": "pkg/zoo"
     }
+
 ]
