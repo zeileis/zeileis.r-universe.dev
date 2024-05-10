@@ -44,6 +44,12 @@
 
 
     {
+        "package": "ivreg",
+        "url": "https://github.com/zeileis/ivreg"
+    },
+
+
+    {
         "package": "sandwich",
         "url": "https://github.com/r-forge/sandwich",
         "subdir": "pkg"
