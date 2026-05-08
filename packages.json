@@ -26,13 +26,11 @@
     },
     {
         "package": "c403",
-        "url": "https://github.com/r-forge/exams",
-        "subdir": "pkg/c403"
+        "url": "https://codeberg.org/zeileis/c403"
     },
     {
         "package": "exams2forms",
-        "url": "https://github.com/r-forge/exams",
-        "subdir": "pkg/exams2forms"
+        "url": "https://codeberg.org/zeileis/exams2forms"
     },
 
 
