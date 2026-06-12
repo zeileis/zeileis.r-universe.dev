@@ -101,6 +101,10 @@
         "package": "crch",
         "url": "https://github.com/r-forge/topmodels",
         "subdir": "pkg/crch"
+    },
+    {
+        "package": "glmx",
+        "url": "https://codeberg.org/zeileis/glmx"
     }
 
 ]
