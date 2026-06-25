@@ -104,6 +104,10 @@
     },
 
     {
+        "package": "fortunes",
+        "url": "https://codeberg.org/zeileis/fortunes"
+    },
+    {
         "package": "glmx",
         "url": "https://codeberg.org/zeileis/glmx"
     },
