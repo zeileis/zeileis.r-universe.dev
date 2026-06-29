@@ -104,6 +104,10 @@
     },
 
     {
+        "package": "ctv",
+        "url": "https://codeberg.org/zeileis/ctv"
+    },
+    {
         "package": "fortunes",
         "url": "https://codeberg.org/zeileis/fortunes"
     },
