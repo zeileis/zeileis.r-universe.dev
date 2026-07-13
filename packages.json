@@ -104,8 +104,16 @@
     },
 
     {
+        "package": "colorspace",
+        "url": "https://codeberg.org/zeileis/colorspace"
+    },
+    {
         "package": "ctv",
         "url": "https://codeberg.org/zeileis/ctv"
+    },
+    {
+        "package": "dichromat",
+        "url": "https://codeberg.org/zeileis/dichromat"
     },
     {
         "package": "fortunes",
