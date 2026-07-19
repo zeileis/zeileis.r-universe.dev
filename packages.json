@@ -126,6 +126,14 @@
     {
         "package": "glogis",
         "url": "https://codeberg.org/zeileis/glogis"
+    },
+    {
+        "package": "zoo",
+        "url": "https://codeberg.org/zeileis/zoo"
+    },
+    {
+        "package": "zooExtra",
+        "url": "https://codeberg.org/zeileis/zooExtra"
     }
 
 ]
