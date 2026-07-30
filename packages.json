@@ -128,6 +128,10 @@
         "url": "https://codeberg.org/zeileis/glogis"
     },
     {
+        "package": "stablelearner",
+        "url": "https://codeberg.org/zeileis/stablelearner"
+    },
+    {
         "package": "zoo",
         "url": "https://codeberg.org/zeileis/zoo"
     },
