@@ -21,8 +21,7 @@
 
     {
         "package": "exams",
-        "url": "https://github.com/r-forge/exams",
-        "subdir": "pkg/exams"
+        "url": "https://codeberg.org/zeileis/exams"
     },
     {
         "package": "c403",
@@ -35,6 +34,10 @@
     {
         "package": "exams2learnr",
         "url": "https://codeberg.org/zeileis/exams2learnr"
+    },
+    {
+        "package": "tth",
+        "url": "https://codeberg.org/zeileis/tth"
     },
 
 
