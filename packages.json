@@ -32,6 +32,10 @@
         "package": "exams2forms",
         "url": "https://codeberg.org/zeileis/exams2forms"
     },
+    {
+        "package": "exams2learnr",
+        "url": "https://codeberg.org/zeileis/exams2learnr"
+    },
 
 
     {
@@ -42,47 +46,47 @@
 
     {
         "package": "partykit",
-        "url": "https://github.com/r-forge/partykit",
+        "url": "https://codeberg.org/thothorn/partykit",
         "subdir": "pkg/partykit"
     },
     {
         "package": "circtree",
-        "url": "https://github.com/r-forge/partykit",
+        "url": "https://codeberg.org/thothorn/partykit",
         "subdir": "pkg/circtree"
     },
     {
         "package": "disttree",
-        "url": "https://github.com/r-forge/partykit",
+        "url": "https://codeberg.org/thothorn/partykit",
         "subdir": "pkg/disttree"
     },
     {
         "package": "evtree",
-        "url": "https://github.com/r-forge/partykit",
+        "url": "https://codeberg.org/thothorn/partykit",
         "subdir": "pkg/evtree"
     },
     {
         "package": "glmertree",
-        "url": "https://github.com/r-forge/partykit",
+        "url": "https://codeberg.org/thothorn/partykit",
         "subdir": "pkg/glmertree"
     },
     {
         "package": "lagsarlmtree",
-        "url": "https://github.com/r-forge/partykit",
+        "url": "https://codeberg.org/thothorn/partykit",
         "subdir": "pkg/lagsarlmtree"
     },
     {
         "package": "model4you",
-        "url": "https://github.com/r-forge/partykit",
+        "url": "https://codeberg.org/thothorn/partykit",
         "subdir": "pkg/model4you"
     },
     {
         "package": "palmtree",
-        "url": "https://github.com/r-forge/partykit",
+        "url": "https://codeberg.org/thothorn/partykit",
         "subdir": "pkg/palmtree"
     },
     {
         "package": "RainTyrol",
-        "url": "https://github.com/r-forge/partykit",
+        "url": "https://codeberg.org/thothorn/partykit",
         "subdir": "pkg/RainTyrol"
     },
 
