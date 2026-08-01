@@ -123,6 +123,10 @@
         "url": "https://codeberg.org/zeileis/dichromat"
     },
     {
+        "package": "Formula",
+        "url": "https://codeberg.org/zeileis/Formula"
+    },
+    {
         "package": "fortunes",
         "url": "https://codeberg.org/zeileis/fortunes"
     },
