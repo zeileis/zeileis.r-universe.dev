@@ -150,6 +150,10 @@
         "url": "https://codeberg.org/zeileis/stablelearner"
     },
     {
+        "package": "strucchange",
+        "url": "https://codeberg.org/zeileis/strucchange"
+    },
+    {
         "package": "strucchangeArmadillo",
         "url": "https://codeberg.org/zeileis/strucchangeArmadillo"
     },
