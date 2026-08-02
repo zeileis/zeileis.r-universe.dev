@@ -142,6 +142,10 @@
         "url": "https://codeberg.org/zeileis/psychotree"
     },
     {
+        "package": "sandwich",
+        "url": "https://codeberg.org/zeileis/sandwich"
+    },
+    {
         "package": "stablelearner",
         "url": "https://codeberg.org/zeileis/stablelearner"
     },
