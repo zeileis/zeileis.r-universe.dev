@@ -1,49 +1,38 @@
 [
     {
+        "package": "distributions3",
+        "url": "https://github.com/zeileis/distributions3"
+    },
+    {
+        "package": "ivreg",
+        "url": "https://github.com/zeileis/ivreg"
+    },
+
+
+    {
         "package": "betareg",
         "url": "https://github.com/r-forge/betareg",
         "subdir": "pkg"
     },
-
-
     {
         "package": "countreg",
         "url": "https://github.com/r-forge/countreg",
         "subdir": "pkg"
     },
-
-
     {
-        "package": "distributions3",
-        "url": "https://github.com/zeileis/distributions3"
-    },
-
-
-    {
-        "package": "exams",
-        "url": "https://codeberg.org/zeileis/exams"
+        "package": "topmodels",
+        "url": "https://github.com/r-forge/topmodels",
+        "subdir": "pkg/topmodels"
     },
     {
-        "package": "c403",
-        "url": "https://codeberg.org/zeileis/c403"
+        "package": "brtobit",
+        "url": "https://github.com/r-forge/topmodels",
+        "subdir": "pkg/brtobit"
     },
     {
-        "package": "exams2forms",
-        "url": "https://codeberg.org/zeileis/exams2forms"
-    },
-    {
-        "package": "exams2learnr",
-        "url": "https://codeberg.org/zeileis/exams2learnr"
-    },
-    {
-        "package": "tth",
-        "url": "https://codeberg.org/zeileis/tth"
-    },
-
-
-    {
-        "package": "ivreg",
-        "url": "https://github.com/zeileis/ivreg"
+        "package": "crch",
+        "url": "https://github.com/r-forge/topmodels",
+        "subdir": "pkg/crch"
     },
 
 
@@ -95,20 +84,26 @@
 
 
     {
-        "package": "topmodels",
-        "url": "https://github.com/r-forge/topmodels",
-        "subdir": "pkg/topmodels"
+        "package": "exams",
+        "url": "https://codeberg.org/zeileis/exams"
     },
     {
-        "package": "brtobit",
-        "url": "https://github.com/r-forge/topmodels",
-        "subdir": "pkg/brtobit"
+        "package": "c403",
+        "url": "https://codeberg.org/zeileis/c403"
     },
     {
-        "package": "crch",
-        "url": "https://github.com/r-forge/topmodels",
-        "subdir": "pkg/crch"
+        "package": "exams2forms",
+        "url": "https://codeberg.org/zeileis/exams2forms"
     },
+    {
+        "package": "exams2learnr",
+        "url": "https://codeberg.org/zeileis/exams2learnr"
+    },
+    {
+        "package": "tth",
+        "url": "https://codeberg.org/zeileis/tth"
+    },
+
 
     {
         "package": "colorspace",
@@ -141,6 +136,10 @@
     {
         "package": "glogis",
         "url": "https://codeberg.org/zeileis/glogis"
+    },
+    {
+        "package": "psychotree",
+        "url": "https://codeberg.org/zeileis/psychotree"
     },
     {
         "package": "stablelearner",
