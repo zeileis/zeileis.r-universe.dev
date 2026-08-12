@@ -10,11 +10,6 @@
 
 
     {
-        "package": "betareg",
-        "url": "https://github.com/r-forge/betareg",
-        "subdir": "pkg"
-    },
-    {
         "package": "countreg",
         "url": "https://github.com/r-forge/countreg",
         "subdir": "pkg"
@@ -105,6 +100,10 @@
     },
 
 
+    {
+        "package": "betareg",
+        "url": "https://codeberg.org/zeileis/betareg"
+    },
     {
         "package": "colorspace",
         "url": "https://codeberg.org/zeileis/colorspace"
