@@ -10,24 +10,24 @@
 
 
     {
-        "package": "countreg",
-        "url": "https://github.com/r-forge/countreg",
-        "subdir": "pkg"
+        "package": "topmodels",
+        "url": "https://codeberg.org/zeileis/topmodels"
     },
     {
-        "package": "topmodels",
-        "url": "https://github.com/r-forge/topmodels",
-        "subdir": "pkg/topmodels"
+        "package": "betareg",
+        "url": "https://codeberg.org/zeileis/betareg"
     },
     {
         "package": "brtobit",
-        "url": "https://github.com/r-forge/topmodels",
-        "subdir": "pkg/brtobit"
+        "url": "https://codeberg.org/zeileis/brtobit"
+    },
+    {
+        "package": "countreg",
+        "url": "https://codeberg.org/zeileis/countreg"
     },
     {
         "package": "crch",
-        "url": "https://github.com/r-forge/topmodels",
-        "subdir": "pkg/crch"
+        "url": "https://codeberg.org/zeileis/crch"
     },
 
 
@@ -100,10 +100,6 @@
     },
 
 
-    {
-        "package": "betareg",
-        "url": "https://codeberg.org/zeileis/betareg"
-    },
     {
         "package": "colorspace",
         "url": "https://codeberg.org/zeileis/colorspace"
