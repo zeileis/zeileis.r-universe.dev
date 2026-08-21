@@ -101,6 +101,10 @@
 
 
     {
+        "package": "chaid",
+        "url": "https://codeberg.org/zeileis/chaid"
+    },
+    {
         "package": "colorspace",
         "url": "https://codeberg.org/zeileis/colorspace"
     },
