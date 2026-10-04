@@ -29,6 +29,10 @@
         "package": "crch",
         "url": "https://codeberg.org/zeileis/crch"
     },
+    {
+        "package": "truncreg",
+        "url": "https://codeberg.org/zeileis/truncreg"
+    },
 
 
     {
