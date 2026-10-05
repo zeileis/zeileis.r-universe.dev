@@ -33,6 +33,10 @@
         "package": "truncreg",
         "url": "https://codeberg.org/zeileis/truncreg"
     },
+    {
+        "package": "FlashAustria",
+        "url": "https://codeberg.org/zeileis/FlashAustria"
+    },
 
 
     {
