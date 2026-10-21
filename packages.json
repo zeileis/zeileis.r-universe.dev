@@ -145,6 +145,10 @@
         "url": "https://codeberg.org/zeileis/glogis"
     },
     {
+        "package": "jss",
+        "url": "https://codeberg.org/zeileis/jss"
+    },
+    {
         "package": "psychotree",
         "url": "https://codeberg.org/zeileis/psychotree"
     },
