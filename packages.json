@@ -30,6 +30,10 @@
         "url": "https://codeberg.org/zeileis/crch"
     },
     {
+        "package": "DistrFree",
+        "url": "https://codeberg.org/Thymore/DistrFree"
+    },
+    {
         "package": "truncreg",
         "url": "https://codeberg.org/zeileis/truncreg"
     },
